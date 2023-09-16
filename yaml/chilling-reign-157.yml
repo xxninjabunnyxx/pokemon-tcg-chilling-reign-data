@@ -1,0 +1,74 @@
+---
+id: swsh6-157
+name: Impact Energy
+supertype: Energy
+subtypes:
+- Special
+- Single Strike
+rules:
+- This card can only be attached to a Single Strike Pokémon. If this card is attached
+  to anything other than a Single Strike Pokémon, discard this card.
+- As long as this card is attached to a Pokémon, it provides every type of Energy
+  but provides only 1 Energy at a time. The Pokémon this card is attached to can't
+  be Poisoned, and if it is already Poisoned, it recovers from that Special Condition.
+set:
+  id: swsh6
+  name: Chilling Reign
+  series: Sword & Shield
+  printedTotal: 198
+  total: 233
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: CRE
+  releaseDate: 2021/06/18
+  updatedAt: 2021/06/18 12:12:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh6/symbol.png
+    logo: https://images.pokemontcg.io/swsh6/logo.png
+number: '157'
+rarity: Uncommon
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: E
+images:
+  small: https://images.pokemontcg.io/swsh6/157.png
+  large: https://images.pokemontcg.io/swsh6/157_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh6-157
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.02
+      mid: 0.24
+      high: 1.5
+      market: 0.19
+      directLow: 0.16
+    normal:
+      low: 0.02
+      mid: 0.15
+      high: 3.0
+      market: 0.1
+      directLow: 0.06
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh6-157
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.06
+    lowPrice: 0.02
+    trendPrice: 0.04
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.19
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.21
+    lowPriceExPlus: 0.02
+    avg1: 0.1
+    avg7: 0.08
+    avg30: 0.07
+    reverseHoloAvg1: 0.05
+    reverseHoloAvg7: 0.15
+    reverseHoloAvg30: 0.19

@@ -1,0 +1,99 @@
+---
+id: swsh6-95
+name: Weezing
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '130'
+types:
+- Darkness
+evolvesFrom: Koffing
+attacks:
+- name: Mixin' Toxin
+  cost:
+  - Darkness
+  convertedEnergyCost: 1
+  damage: ''
+  text: Your opponent's Active Pokémon is now Confused. Attach a Darkness Energy card
+    from your discard pile to this Pokémon.
+- name: Smog Burst
+  cost:
+  - Darkness
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 20+
+  text: This attack does 20 more damage for each Darkness Energy attached to all of
+    your Pokémon.
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swsh6
+  name: Chilling Reign
+  series: Sword & Shield
+  printedTotal: 198
+  total: 233
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: CRE
+  releaseDate: 2021/06/18
+  updatedAt: 2021/06/18 12:12:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh6/symbol.png
+    logo: https://images.pokemontcg.io/swsh6/logo.png
+number: '95'
+artist: Ryuta Fuse
+rarity: Rare
+flavorText: Very rarely, a sudden mutation can result in two small Koffing twins becoming
+  conjoined as a Weezing.
+nationalPokedexNumbers:
+- 110
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: E
+images:
+  small: https://images.pokemontcg.io/swsh6/95.png
+  large: https://images.pokemontcg.io/swsh6/95_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh6-95
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.04
+      mid: 0.21
+      high: 2.0
+      market: 0.14
+      directLow: 0.1
+    normal:
+      low: 0.01
+      mid: 0.17
+      high: 2.0
+      market: 0.08
+      directLow: 0.07
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh6-95
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.1
+    lowPrice: 0.02
+    trendPrice: 0.1
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.13
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.11
+    lowPriceExPlus: 0.02
+    avg1: 0.16
+    avg7: 0.13
+    avg30: 0.11
+    reverseHoloAvg1: 0.25
+    reverseHoloAvg7: 0.15
+    reverseHoloAvg30: 0.2
